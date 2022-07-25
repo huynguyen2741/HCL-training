@@ -1,4 +1,4 @@
-package assignment.Assignment_3;
+package assignment;
 
 // Washing Machine class
 abstract class Washing_Machine {
